@@ -92,7 +92,7 @@ way-to-agi-community/
 ### 加入社区
 
 - 加入社区交流群：xxxxxxxxxxxxxxxxxxxxxxxx
-- 关注社区动态：xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- 关注社区动态：[社区活动](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 - 定期参与社区线上/线下活动(xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 
 
