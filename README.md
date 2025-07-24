@@ -1,6 +1,6 @@
 # Way to AGI 开源社区项目仓库
 
-![Way to AGI Logo]([https://placeholder.com/logo](https://ark-auto-2102717056-cn-beijing-default.tos-cn-beijing.volces.com/img/tos-cn-avt-0015_885af608737c059751b4dd0d8f23671a~c5_300x300.jpeg))
+![Way to AGI Logo](https://github.com/yiming1001/pub_community/blob/master/images/tos-cn-avt-0015_885af608737c059751b4dd0d8f23671a~c5_300x300.jpeg)
 
 ## 🌟 关于本仓库
 
@@ -91,9 +91,9 @@ way-to-agi-community/
 
 ### 加入社区
 
-- 加入社区交流群：[点击加入 Discord 社区](https://discord.gg/xxx)（替换为实际链接）
-- 关注社区动态：[Way to AGI 公众号/博客](https://xxx)（替换为实际链接）
-- 定期参与社区线上/线下活动（活动信息将在社区渠道发布）
+- 加入社区交流群：xxxxxxxxxxxxxxxxxxxxxxxx
+- 关注社区动态：xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- 定期参与社区线上/线下活动(xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 
 
 ## 📜 许可证说明
@@ -104,9 +104,9 @@ way-to-agi-community/
 
 ## 📞 联系我们
 
-- 社区运营负责人 GitHub：[@运营人用户名](https://github.com/xxx)
+- 社区运营负责人 xxxxxxxxxxxxxxxxxxxxxxx
 - 社区邮箱：contact@waytoagi.com
-- 社区 Discord：[链接](https://discord.gg/xxx)
+
 
 ---
 
